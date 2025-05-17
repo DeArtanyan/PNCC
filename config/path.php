@@ -1,6 +1,6 @@
 <?php
 return [
-    'root' => 'pnss',
+    'root' => '',
     'routes' => 'routes',
     'views' => 'views',
 ];
